@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Title1",
+      "body": "<p>changed ahaha starred nowasjasdjl</p>",
+      "starred": false
+    },
+    {
+      "id": 2,
+      "title": "Title2",
+      "body": "<p>changed again haha</p>",
+      "starred": false
+    },
+    {
+      "id": 3,
+      "title": "Title4",
+      "body": "<p>wow edited from starred</p>",
+      "starred": true
+    },
+    {
+      "id": 5,
+      "title": "Title 3",
+      "body": "<p>First data <i><strong>edited</strong></i></p>",
+      "starred": false
+    },
+    {
+      "id": 6,
+      "title": "Title 6",
+      "body": "<p>Yow</p>",
+      "starred": true
+    },
+    {
+      "id": 7,
+      "title": "Heading vro",
+      "body": "<p>Ajib<strong>Data</strong></p>",
+      "starred": false
+    }
+  ]
+}
